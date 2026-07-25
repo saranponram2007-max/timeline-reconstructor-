@@ -1,2 +1,2 @@
 # timeline-reconstructor-
-file:///C:/Users/saran/Downloads/chronosec-ai-platform_1.html
+https://aquamarine-gecko-c2aee0.netlify.app/
